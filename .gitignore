@@ -1,0 +1,4 @@
+# Ignore all exe files
+*.exe
+#ignore all the json file frome the vscode 
+*.json
